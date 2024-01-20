@@ -1,0 +1,679 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta content="360doc" name="classification" /><link rel="canonical" href="http://www.360doc.com/content/23/0308/07/39103730_1071040033.shtml"/><link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.360doc.cn/article/39103730_1071040033.html"/><meta content="社群,计量,经济圈" name=keywords><meta content="到底控制什么层面的固定效应? 最低, 最高, or随意？" name=description><meta name="mobile-agent" content="format=html5;url=https://www.360doc.cn/article/39103730_1071040033.html"/><meta content="社群群友最近在社群里就&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;到底控制什么层面的固定效应&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;展开了不少讨论。①大家的疑惑：当X与Y在不同数据层面时，例如，核心解释变量X是城市层面的，被解释变量Y是企业层面的，固定效应该如何控制？但，现在的问题是，当X与Y在同一数据层面时，例如，核心解释变量X是个体层面的，被解释变量Y也是个体层面的，为什么有些学者不控制个体固定效应，而是控制了更高层面的固定效应，包括控制了省份固定效应或行业固定效应？" name=360docabstract><meta content="www.360doc.com" name="author" /><meta name="Referrer" content="origin" /><title>
+	到底控制什么层面的固定效应? 最低, 最高, or随意？
+</title><link rel="stylesheet" type="text/css" href="//css.360doc.com/newArticle20200630.css?t=2023111401" /><link href="//css.360doc.com/index7/newheader2022.css?t=2023032001" rel="stylesheet" type="text/css" /> <link rel="stylesheet" type="text/css" href="//css.360doc.com/ueditor/neweditor.css?t=20220223" /><style> #artContent h1{font-size:16px;font-weight: 400;} #artContent p img{float:none !important;} #artContent table{width:100% !important;}</style>
+    <script src="/js/360query18.js?t=2020091001" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+     function setDragEnd() { };
+     function NewHighlight() { };
+     function delAllDiv() { };
+     if (window.location.toString().indexOf("shtml?") > 0) {
+         self.location = window.location.toString().replace(window.location.search.toString(), "");
+     }
+     function doccheckart(json) {
+         if (json[0].result == "1") {
+             if ( 1071040033 !=  1071040033) {
+                 if (getCookie("360doc1") != null) {
+                     $.ajax({
+                         url: "http://www.360doc.com/ajax/getuserid.ashx",
+                         async: false,
+                         cache: false,
+                         dataType: "json",
+                         success: function (result) {
+
+                             if (39103730 != result.userid) {
+                                 self.location = "http://www.360doc.com/noarticle.aspx";
+                             }
+                         },
+                         error:function(){
+                            self.location = "http://www.360doc.com/noarticle.aspx";
+                        }
+                     });
+                 }
+                 else {
+                     self.location = "http://www.360doc.com/noarticle.aspx";
+                 }
+             }
+             else {
+                 self.location = "http://www.360doc.com/noarticle.aspx";
+             }
+         }
+     }
+    </script>
+    <script src="/js/Statistics/addStatistics.js?t=2023010401" type="text/javascript"></script>
+
+    <script type="text/javascript">
+        function getCookie(name) //获取cookie值
+        {
+            var arr = document.cookie.match(new RegExp("(^| )" + name + "=([^;]*)(;|$)"));
+            if (arr != null)
+                return unescape(arr[2]);
+            return null;
+        }
+        var patt1 = new RegExp("[0-9]*_[0-9]*");
+        var url = patt1.exec(location.href);
+        if (navigator.userAgent.toLowerCase().indexOf("micromessenger") > -1) {
+            window.location.href = "http://www.360doc6.net/wxarticlenew/" + url.toString().split("_")[1] + ".html";
+
+        }
+        else if (navigator.userAgent.indexOf("iPhone") > 0 || navigator.userAgent.indexOf("Android") > 0 || navigator.userAgent.indexOf("iPod") > 0) {  //手机端跳转
+
+            if (url != "") {
+                self.location = "https://www.360doc.cn/article/" + url + ".html";
+            }
+        }
+
+        if ( 1071040033 !=  1071040033) {
+            if (getCookie("360doc1") != null) {
+                $.ajax({
+                    url: "http://www.360doc.com/ajax/getuserid.ashx",
+                    async: false,
+                    cache: false,
+                    dataType: "json",
+                    success: function (result) {
+
+                        if (39103730 != result.userid) {
+
+                            self.location = "http://www.360doc.com/content/23/0308/07/39103730_1071040033.shtml";
+                        }
+                    }
+                });
+            }
+            else {
+                self.location = "http://www.360doc.com/content/23/0308/07/39103730_1071040033.shtml";
+            }
+        }
+
+
+        if ( 0 !=  1071040033&&"0" != "" &&"0" != "0" &&"0" != 1) {
+            $.ajax({
+                url: "http://www.360doc.com/ajax/getuserid.ashx",
+                cache: false,
+                dataType: "json",
+                success: function (result) {
+                    if (result.userid != 39103730) {
+                        location = "";
+                    }
+                }
+            });
+        }
+    </script>
+    <script src="/js/showarticlefollow20160329.js?t=2024011501" type="text/javascript" charset="utf-8"></script>
+
+    <script src="/js/jQuery.md5.min.js?t=2016041501" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/common/docgjio.js?t=2018012801" type="text/javascript" charset="utf-8"></script>
+
+    <script type="text/javascript">
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?d86954201130d615136257dde062a503";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+    <script src="/js/article/report.js?t=2023120501" type="text/javascript" charset="utf-8"></script>
+
+</head>
+<body onmouseup="setDragEnd()" onclick="delAllDiv(event)">
+    
+    <div id="LayerLogin"></div>
+
+
+
+    <div style="position: absolute; width: 100%; z-index: 1000;">
+        <div class="header" style="background-color: #ffffff;">
+            <div class="header_1">
+                <a href="/" aria-label="home">
+                    <img src="http://pubimage.360doc.com/index7/nlogo.jpg" class="f_left" width="435" height="68" alt="logo" /></a>
+                <div class="headsearch">
+                    <div class="zcomdiv">
+                        <input type="text" class="headsearch_inp f_left" value="搜文章  找知识" />
+                        <span class="headsearch_btn f_right" id="searchlinkid">搜索</span>
+                    </div>
+                </div>
+                <div class="mylibrary">
+                    <a id="userInfoUrl" href="http://www.360doc.com/my360doc.aspx" class="a1">
+                        <div class="h_user">
+                            <img id="divuserinfonew" src="http://pubimage.360doc.com/index7/dingtu.gif" />
+                        </div>
+                        我的图书馆
+                    </a>
+                </div>
+                <div class="headmail f_left" style="display: none;">
+                    <p class="h_icon1" id="newMsg"></p>
+                    <span class="h_border"></span>
+                    <ul class="hm_list" id="msgtips">
+                        <li id="msgicon"><a href="/mymsg.aspx?app=2">查看信箱</a></li>
+                        <li id="sysmsgicon"><a href="/mymsg.aspx?app=9">系统消息</a></li>
+                        <li id="sysicon"><a href="/mymsg.aspx?app=4">官方通知</a></li>
+                        <li class="hm_color2" style="background-color: #f4f4f4"><a href="/mymsg.aspx?app=6">设置</a></li>
+                    </ul>
+                </div>
+                <div class="headtalker f_left" style="display: none;">
+                    <p class="h_icon1" id="newDialog"></p>
+                    <span class="h_border"></span>
+                    <ul class="hm_list">
+                        <li id="li1chat"><a href="javascript:void(0)" onclick="initchatnew()">开始对话</a></li>
+                        <li id="li2chat" style="display: none;"><a href="javascript:void(0)" style="color: #141414;">有<span>11</span>人和你对话，<span onclick="initchatnew()" style="color: #4578b4">查看</span>&nbsp;<span onclick="clearinfochat()" style="color: #4578b4">忽略</span></a></li>
+                        <li><a href="http://www.360doc.com/mycontacts.aspx?app=8">历史对话记录</a></li>
+                        <li class="hm_color2" style="background-color: #f4f4f4"><a href="http://www.360doc.com/mycontacts.aspx?app=7">通知设置</a></li>
+                    </ul>
+                </div>
+                <span class="head_bd f_left"></span>
+                <div class="head_pbox f_left">
+                    <i class="indexallbg"></i>
+                    <p>发文章</p>
+                    <div class="d1">
+                        <div class="d1">
+                            <p>发文工具</p>
+                            <div>
+                                <a href="/edit/writeartnew.aspx" target="_blank" class="a1" onclick="imgLog(1, 'code=43-14-1-2')"><i class="indexallbg"></i>
+                                    <p>撰写</p>
+                                </a>
+                                <a href="/helpnew.html" target="_blank" class="a2" onclick="imgLog(1, 'code=43-14-1-3')"><i class="indexallbg"></i>
+                                    <p>网文摘手</p>
+                                </a>
+                                <a href="/edit/docupload.aspx" target="_blank" class="a3" onclick="imgLog(1, 'code=43-14-1-4')"><i class="indexallbg"></i>
+                                    <p>文档</p>
+                                </a>
+                                <a href="javascript:void(0);" class="a10" onclick="imgLog(1, 'code=25-15-1-1')"><i class="indexallbg"></i>
+                                    <p>视频</p>
+                                </a>
+                                <a href="/eeg/index.aspx" target="_blank" class="a4" onclick="imgLog(1, 'code=43-14-1-5')"><i class="indexallbg"></i>
+                                    <p>思维导图</p>
+                                </a>
+                                <a href="/myfiles.aspx?app=18" target="_blank" class="a5" onclick="imgLog(1, 'code=43-14-1-6')"><i class="indexallbg"></i>
+                                    <p>随笔</p>
+                                </a>
+                                <a href="/writephoto2.aspx" target="_blank" class="a6" onclick="imgLog(1, 'code=43-14-1-7')"><i class="indexallbg"></i>
+                                    <p>相册</p>
+                                </a>
+                                <a href="/myoriginal.aspx?app=3" target="_blank" class="a7" onclick="imgLog(1, 'code=43-14-1-8')"><i class="indexallbg"></i>
+                                    <p>原创同步助手</p>
+                                </a>
+                                <div class="clearb"></div>
+                            </div>
+                        </div>
+                        <div class="d1">
+                            <p>其他工具</p>
+                            <div>
+                                <a href="/edit/ocrindex.html" target="_blank" class="a8" onclick="ocrImgLog();"><i class="indexallbg"></i>
+                                    <p>图片转文字</p>
+                                    <b></b></a>
+                                <a href="/myfiles.aspx?app=21" target="_blank" class="a9" onclick="imgLog(1, 'code=43-14-1-9')"><i class="indexallbg"></i>
+                                    <p>文件清理</p>
+                                    <b></b></a>
+                                <div class="clearb"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <a href="http://www.360doc.com/advice.html" target="_blank" class="head_talk f_left" onclick="imgLog(1, 'code=43-14-1-10')"><i class="indexallbg"></i>
+                    <p>留言交流</p>
+                </a>
+            </div>
+        </div>
+        <div class="arti_type_shadow"></div>
+    </div>
+    <div class="atfixednav">
+        <div class="anbg"></div>
+        <div class="d1" onclick="$('#contextmenudivmouseup').hide();">
+            <a class="fxlogo_ atnavicons" href="/"></a>
+            <div class="fxsearch_" id="fxinput">
+                <div>
+                    <input type="text" value="到底控制什么层面的固定效应? 最低, 最高, or随意？" />
+                </div>
+                <a href="javascript:void(0);">搜索</a>
+            </div>
+
+            <span class="s1 ic5" id="fixedShareArt" title="分享"><a href="javascript:void(0)" onclick="artStatistics('20-8-2')" class="atnavicons"><b>分享</b></a>
+                <div class="sharelist_new bdsharebuttonbox" id="fenxiangLayer3">
+                    <a class="slbg1" href="javascript:void(0);" data-cmd="qzone" onclick="shareStatic.addStatic('qzone');artStatistics('20-8-6')">QQ空间</a>
+                    <a class="slbg2" href="javascript:void(0);" data-cmd="sqq" onclick="shareStatic.addStatic('qq');artStatistics('20-8-7')">QQ好友</a>
+                    <a class="slbg3" href="javascript:void(0);" data-cmd="tsina" onclick="shareStatic.addStatic('sina');artStatistics('20-8-8')">新浪微博</a>
+                    <a class="slbg0" href="javascript:void(0);" onclick="shareWeixin()" id="fixed_weixin">微信</a>
+                    <iframe width="95" height="95" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" class="qr" rel="1071040033" style="display: none;"></iframe>
+
+                </div>
+            </span>
+
+            
+            <span class="s1 ic1" id="fixedLongPic" style="display: none" title="生成长图"><a href="javascript:void(0)" onclick="ArticleLongImgClick(2)" class="atnavicons"><b>生成长图</b></a></span>
+            <span class="s1 ic10" id="fixedWord" style="display: none" title="转Word"><a href="javascript:void(0)" onclick="WordObj.init();addStatisticsNew('20-37-3-131');" class="atnavicons"><b>转Word</b></a></span>
+            <span class="s1 ic7" id="fixedPrint" style="display: none" title="打印"><a href="javascript:void(0)" onclick="PrintObj.init();addStatisticsNew('20-31-1-121');" class="atnavicons"><b>打印</b></a></span>
+            <span class="s1 ic4" id="fixedArtReading" style="display: none" title="朗读"><a href="javascript:void(0)" onclick="ArticleReadingClick(4);" class="atnavicons"><b>朗读</b></a></span>
+            <span class="s1 ic8" id="fixedFullScreen" style="display: none" title="全屏"><a href="javascript:void(0)" onclick="FullScreenObj.init();addStatisticsNew('20-30-1-119');" class="atnavicons"><b>全屏</b></a></span>
+            
+            <span class="s1 ic6" id="fixedEditArt" style="display: none" title="修改"><a href="javascript:void(0)" onclick="document.getElementById('updateartbtnlink').click();artStatistics('20-26-15');" class="atnavicons"><b>修改</b></a></span>
+
+            <span class="s1 ic2" id="fixedResaveArt" style="display: none" title="转藏"><a href="javascript:void(0)" onclick="SaveArt();artStatistics('20-26-6');" class="atnavicons"><b id="resavenum_bar">转藏</b></a><i id="incresave" style="display: none;">+1</i></span>
+        </div>
+    </div>
+    <div style="height: 68px; _height: 0px; width: 100%;"></div>
+
+    <div class="clear360doc"></div>
+
+    <div class="doc360article_content">
+        <div id="arttopbdad">
+        </div>
+        <p class="clearboth"></p>
+        <div class="a_left">
+            <div id="bgchange">
+                <div id="printArticle">
+                    <h1 id="titiletext" ><span id="GLTitile">到底控制什么层面的固定效应? 最低, 最高, or随意？</span><i id="ArticleReadingBtn" title="朗读" class="sound" onclick="ArticleReadingClick(1)" style="display: none;"><span></span><span></span><span></span><span></span></i></h1>
+                    
+                    <audio id="audioId" width="100" height="100" ontimeupdate="AudioTimeUpdate()"></audio>
+                    
+                    <div class="art_topdata">
+                        <span class="a_username" id="topnickname">&nbsp;<a href="http://www.360doc.com/userhome/39103730" id="savernickname" target="_blank" onclick="artStatistics(&#39;20-7-1&#39;);">张春强2022</a>
+                        </span>
+                        
+                        2023-03-08
+                        <span id="articleinfo">
+                            <span id="territory"> 发表于安徽</span><span id="docsource" class="a_from" style="display: none;"></span><span id="360doc_Readnum"></span><span onclick="ShowSaverUser();artStatistics('20-13');" id="360docResaveCount" class="rc__" style="display: none; cursor: pointer;">&nbsp;&nbsp;|&nbsp;&nbsp;<span id="360doc_saverNum" style="color: #62a242;"></span>转藏
+								<span id="360doc_saverUser">
+                                    <div id="sameArtOuter">
+                                        <div onclick="event.cancelBubble=true;" style="overflow-y: auto; height: 300px; overflow-x: hidden; z-index: 100; right: 0px; margin-top: -10px;" id="sameArt">
+                                        </div>
+                                    </div>
+                                </span>
+                            </span>
+                        </span>
+                    </div>
+                    <div class="bdsharebuttonbox article_data_right">
+                        <div class="fontsize_bgcolor_controler" id="color_div" style="display: none;">
+                            <div class="a_bgcolor">
+                                <img src="http://pubimage.360doc.com/NewArticle/bgcolor.jpg" />
+                                <div class="a_colorlist">
+                                    <span class="a_color1" onclick="artStatistics('20-11-1');addStatisticsFullScreen(1,null,6)">
+                                        <img src="http://pubimage.360doc.com/NewArticle/yes.gif" /></span>
+                                    <span class="a_color2" onclick="artStatistics('20-11-2');addStatisticsFullScreen(1,null,5)">
+                                        <img src="http://pubimage.360doc.com/NewArticle/yes.gif" /></span>
+                                    <span class="a_color3" onclick="artStatistics('20-11-3');addStatisticsFullScreen(1,null,4)">
+                                        <img src="http://pubimage.360doc.com/NewArticle/yes.gif" /></span>
+                                    <span class="a_color4" onclick="artStatistics('20-11-4');addStatisticsFullScreen(1,null,3)">
+                                        <img src="http://pubimage.360doc.com/NewArticle/yes.gif" /></span>
+                                    <span class="a_color5" onclick="artStatistics('20-11-5');addStatisticsFullScreen(1,null,2)">
+                                        <img src="http://pubimage.360doc.com/NewArticle/yes.gif" /></span>
+                                    <span class="a_color6 cur" onclick="artStatistics('20-11-6');addStatisticsFullScreen(1,null,1)">
+                                        <img src="http://pubimage.360doc.com/NewArticle/yes.gif" /></span>
+                                </div>
+                            </div>
+                            <div class="a_fontsize">
+                                <img src="http://pubimage.360doc.com/NewArticle/fontSize.jpg" />
+                                <div class="fschange">
+                                    <label>
+                                        <input type="radio" name="font_Size" id="" value="18" onclick="artStatistics('20-10-1'); addStatisticsFullScreen(1, 1, null)" />大
+                                    </label>
+                                    &nbsp;
+					                <label>
+                                        <input type="radio" name="font_Size" id="" value="16" onclick="artStatistics('20-10-2'); addStatisticsFullScreen(1, 2, null)" />中
+                                    </label>
+                                    &nbsp;
+					                <label>
+                                        <input type="radio" name="font_Size" id="" value="14" onclick="artStatistics('20-10-3'); addStatisticsFullScreen(1, 3, null)" />小
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                        <div id="resavelayer1"></div>
+                    </div>
+                    
+                    <div id="articlecontent" class="article_container" onmousedown="newhighlight = true;" onmouseup="NewHighlight(event);" >
+                        <div class="article_showall">
+                            <div>
+                                <a href="javascript:void(0);" onclick="$('body').removeClass('articleMaxH');" datatype="360doczkqw">展开全文</a>
+                            </div>
+                        </div>
+                        <table style="width: 656px;">
+                            <tbody>
+                                <tr>
+                                    <td id="artContent" style="max-width: 656px;">
+                                        <div style="width: 656px; margin: 0; padding: 0; height: 0;"></div>
+
+                                        
+                                        
+
+                                        <section></section><section><span><strong><span><strong><span><strong><span><strong><span><strong><span><strong><span></span></strong></span></strong></span></strong></span></strong></span></strong></span></strong></span></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_2_20230308073210362.jpeg' data-ratio="0.5625" data-s="300,640" data-type="jpeg" data-w="1280" data-index="2" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_2_20230308073210362.jpeg" _width="-32px" alt="图片"></section><h3 cid="n14" mdtype="heading"><span></span></h3><section powered-by="xiumi.us"><section><section><blockquote cid="n17" mdtype="blockquote"><section><span></span></section></blockquote></section></section></section><h2 cid="n42" mdtype="heading"><span>正文</span></h2><p><span md-inline="plain">接着，上一日的文章”<a target="_blank" href="http://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&amp;mid=2448105671&amp;idx=1&amp;sn=576f76eacf5b7b5e5d6363bcf724dd35&amp;chksm=b322fde9845574ff438ab0b44c98ef59f428bab28dd9fd9dacb4d220053dd8025d07defe9668&amp;scene=21#wechat_redirect" textvalue="固定效应: 目前看到解释的最清楚的帖子, 救命！" linktype="text" imgurl="" imgdata="null" data-itemshowtype="0" tab="innerlink" data-linktype="2">固定效应: 目前看到解释的最清楚的帖子, 救命！</a>“，今天，继续就固定效应相关问题展开讨论，当然主要还是社群里的讨论。</span></p><p><span md-inline="plain">社群群友最近在社群里就'到底控制什么层面的固定效应'展开了不少讨论。通过社群群友的抛砖引玉，希望这个问题引起更多学者的关注和讨论。</span></p><h2 cid="n40" mdtype="heading"><span md-inline="plain">①</span></h2><section><span md-inline="plain">大家的疑惑：当X与Y在不同数据层面时，例如，核心解释变量X是城市层面的，被解释变量Y是企业层面的，固定效应该如何控制？到底是控制城市固定效应还是企业固定效应呢？</span></section><section><span md-inline="plain">现在很多学者，直觉性的回答是一定要控制最低层面的固定效应（当然，多数时候都是对的），但是如果核心解释变量X没有很大的variation怎么办？</span></section><section><span md-inline="plain">此时，若控制行业固定效应再加上地区固定效应又是否可行呢？</span></section><hr><section><span md-inline="plain">对此，不少群友觉得，逻辑上需要控制更高层面的固定效应。</span></section><section><span md-inline="plain"><span>例如，1.Nunn, Nathan, and Leonard Wantchekon, 2011, The Slave Trade and the Origins of Mistrust in Africa. American Economic Review 101(7): 3221-52。这篇文章就没有控制到核心层面的固定效应，而是控制了更高层面的固定效应。</span></span></section><section><span md-inline="plain"><span><span>例如2. Kalcheva, I., McLemore, P., &amp; Sias, R. (2021). Economic Policy Uncertainty and Self-Control: Evidence from Unhealthy Choices. Journal of Financial and Quantitative Analysis, 56(4), 1446-1475。这篇文章没有控制个体固定效应，而是控制了更高层面的固定效应，因为核心解释变量在更高层面上。</span></span></span></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_3_20230308073210519.jpeg' data-galleryid="" data-ratio="0.7421981004070556" data-s="300,640" data-type="jpeg" data-w="737" data-index="3" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_3_20230308073210519.jpeg" _width="-32px" alt="图片"></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_4_20230308073210628.jpeg' data-galleryid="" data-ratio="0.8134228187919463" data-s="300,640" data-type="jpeg" data-w="745" data-index="4" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_4_20230308073210628.jpeg" _width="-32px" alt="图片"></section><section><span>例如3. 经济政策不确定性与创新———基于我国上市公司的实证分析。这篇文章也没有控制企业固定效应，而是控制了行业和省份固定效应，还是因为核心解释变量出现在更高一级上。</span></section><p><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_5_20230308073210753.jpeg' data-galleryid="" data-ratio="0.9447852760736196" data-s="300,640" data-type="jpeg" data-w="815" data-index="5" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_5_20230308073210753.jpeg" _width="-32px" alt="图片"></p><section><span md-inline="plain">另外，这篇文章“</span><span md-inline="link"><a spellcheck="false" href="http://mp.weixin.qq.com/s?__biz=MjM5OTMwODM1Mw==&amp;mid=2448101595&amp;idx=1&amp;sn=40b338bf4987462cb94084aef85cdb7b&amp;chksm=b322cdf5845544e3bde18d251125769982d15b40018440d5dd58e8d4427727aee183e8f95af5&amp;scene=21#wechat_redirect" data-linktype="2"><span md-inline="plain">自变量X是微观层面的, 而因变量Y是宏观层面的, 可以放入同一模型回归分析吗</span></a></span><span md-inline="plain">”也是类似的。</span><br></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_6_20230308073210941.jpeg' data-galleryid="" data-ratio="0.9887920298879203" data-s="300,640" data-type="jpeg" data-w="803" data-index="6" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_6_20230308073210941.jpeg" _width="-32px" alt="图片"></section><h2 cid="n40" mdtype="heading"><span md-inline="plain">②</span></h2><p><span><span>但，现在的问题是，当X与Y在同一数据层面时，例如，核心解释变量X是个体层面的，被解释变量Y也是个体层面的，为什么有些学者不控制个体固定效应，而是控制了更高层面的固定效应，包括控制了省份固定效应或行业固定效应？</span></span></p><section><span><span>例如，下面这篇文章用的是企业层面的数据，但回归中控制的却是行业固定效应（国内经济学顶刊）。<br></span></span></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_7_20230308073211113.jpeg' data-galleryid="" data-ratio="0.7292069632495164" data-s="300,640" data-type="jpeg" data-w="1034" data-index="7" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_7_20230308073211113.jpeg" _width="-32px" alt="图片"></section><section><span><span>又例如，下面这篇文章用的是城市层面的数据，但控制的是省份固定效应。至于为什么这样做呢？<strong>作者给出了相关解释，具体见下方社群群友的对话内容</strong>。</span></span></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_8_20230308073211316.jpeg' data-backh="522" data-backw="578" data-ratio="0.9027355623100304" data-s="300,640" data-type="jpeg" data-w="658" data-index="8" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_8_20230308073211316.jpeg" _width="-32px" alt="图片"></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_9_20230308073211409.png' data-ratio="1.5944444444444446" data-s="300,640" data-type="png" data-w="1080" data-index="9" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_9_20230308073211409.png" _width="-32px" alt="图片"></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_10_20230308073211847.jpeg' data-ratio="0.39444444444444443" data-s="300,640" data-type="jpeg" data-w="1080" data-index="10" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_10_20230308073211847.jpeg" _width="-32px" alt="图片"></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_11_20230308073211972.jpeg' data-ratio="1.3666666666666667" data-s="300,640" data-type="jpeg" data-w="1080" data-index="11" src="http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_11_20230308073211972.jpeg" _width="-32px" alt="图片"></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_12_20230308073212378.png' data-ratio="1.6944444444444444" data-s="300,640" data-type="png" data-w="1080" data-index="12" src="http://pubimage.360doc.com/wz/default.gif" _width="-32px" alt="图片"></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_13_2023030807321366.jpeg' data-ratio="1.4722222222222223" data-s="300,640" data-type="jpeg" data-w="1080" data-index="13" src="http://pubimage.360doc.com/wz/default.gif" _width="-32px" alt="图片"></section><section><img doc360img-src='http://image109.360doc.com/DownloadImg/2023/03/0807/262137683_14_20230308073213472.jpeg' data-ratio="1.3277777777777777" data-s="300,640" data-type="jpeg" data-w="1080" data-index="14" src="http://pubimage.360doc.com/wz/default.gif" _width="-32px" alt="图片"></section><p><span>元芳，你怎么看？</span></p><blockquote cid="n194" mdtype="blockquote"><section><span></span></section></blockquote><p></p><style> #artContent h1{font-size:16px;font-weight: 400;}</style><style>#artContent p img{float:none !important;}</style><style>#artContent table{width:100% !important;}</style>
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+
+
+
+                </div>
+                <table>
+                    <!--防止文章内容有不完整标签-->
+                    <tbody>
+                        <tr>
+                            <td>
+                                <ul></ul>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <div></div>
+                <span></span>
+                <a></a>
+                <p style="margin: 0; padding: 0;"></p>
+                <p class="clearboth"></p>
+
+
+                <div id="oranuserinfo" style="display: none; border: 0; padding: 0; margin: 0; overflow: visible;" class="yc_user zcomdiv new_yc_user">
+                </div>
+
+                <div id="divtort"><div style="color:#999;text-align:left;line-height:22px;background:#f7f7f7;padding: 10px 20px;margin-bottom: -7px;margin-top:10px;">本站是提供个人知识管理的网络存储空间，所有内容均由用户发布，不代表本站观点。请注意甄别内容中的联系方式、诱导购买等信息，谨防诈骗。如发现有害或侵权内容，请点击<span style = "color:#155d9a;cursor:pointer;white-space: nowrap;" onclick="reportLayer.isLogin();artStatistics('20-18');">一键举报。</span></div></div>
+                
+                
+
+                <div class="bottombtn2" id="bottombtn2">
+                    <span class="newbtn_forward" onclick="SaveArt();artStatistics('20-3-2');" id="bt_resave"><i></i><b>转藏</b></span>
+                    
+                    
+                    
+                    
+                    
+                    <span class="newbtn_share">
+                        <i></i><b>分享</b>
+                        <a href="javascript:void(0);" onclick="artStatistics('20-8-3');shareclickfun(this)"></a>
+                        <div class="sharelist_new bdsharebuttonbox" id="fenxiangLayer2">
+                            <a class="slbg1" href="javascript:void(0);" data-cmd="qzone" onclick="artStatistics('20-8-6');shareStatic.addStatic('qzone');">QQ空间</a>
+                            <a class="slbg2" href="javascript:void(0);" data-cmd="sqq" onclick="artStatistics('20-8-7');shareStatic.addStatic('qq');">QQ好友</a>
+                            <a class="slbg3" href="javascript:void(0);" data-cmd="tsina" onclick="artStatistics('20-8-8');shareStatic.addStatic('sina');">新浪微博</a>
+                            <a class="slbg0" href="javascript:void(0);" onclick="shareWeixin()" id="bottom_weixin">微信</a>
+                            <iframe width="95" height="95" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" class="qr" rel="1071040033" style="display: none;"></iframe>
+                        </div>
+                    </span>
+                    <span id="flowimg3" class="newbtn_hua" onclick="Showflowerlayer('sendedLayer1');"><i></i><b>献花（<span id="articleflowernum">0</span>）
+                            <span id="flowernumadd" style="display: none;">+1</span></b></span>
+                </div>
+                <div class="bottom_controler">
+                    <p class="bottom_cleft wordnobreak_">
+                        来自：
+                        <span class="a_username" style="width: auto;">
+                            <a href="http://www.360doc.com/userhome/39103730" id="savernickname2" target="_blank" onclick="artStatistics(&#39;20-7-2&#39;);">张春强2022</a>
+                        </span>
+                        &gt; 
+                        <span id="cname" class="a_from"><a href='http://www.360doc.com/userhome.aspx?userid=39103730&cid=358' target='_blank' onclick='artStatistics("20-6");'>《固定效应》</a></span>
+                    </p>
+                    <div class="bottom_cright">
+                        
+                        <span>
+                            <a href="javascript:void(0);" class="a2 a3" onclick="reportLayer.isLogin();artStatistics('20-18');">举报/认领</a>
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="zcomdiv">
+                    <div class="prev_next">
+                        <div class="p1" id="lastart" style="display: none;">
+                            <span>上一篇：</span>
+                            <div></div>
+                        </div>
+                        <div class="p2" id="nextart" style="display: none;">
+                            <span>下一篇：</span>
+                            <div></div>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <p class="clearboth"></p>
+
+            <div style="height: auto; overflow: hidden;">
+                <a href="javascript:void(0)" id="topref" style="height: 0px;"></a>
+                <div id="divyoulikeadtitle" class="mod__" style="display: none;">
+                    <div class="str_border" style="border: none; position: relative; z-index: 2;">
+                        <strong>猜你喜欢</strong>
+                    </div>
+                    <ul class="youlike" style="margin-top: -18px; position: relative; z-index: 1; display: none;" id="divyoulikeadbody">
+                        <div style="width: 676px; height: 280px; border: 0;" id="divyoulikead">
+                        </div>
+                    </ul>
+                </div>
+                <div class="clearboth"></div>
+                <div class="mod__">
+                    <div class="new_plbox zcomdiv">
+                        <p id="refNumDIV" class="p1 f_left"><span id="refNumSpan">0</span>条评论</p>
+                        
+                        
+                        <div class="new_huifubt f_left">
+                            <textarea name="SendRefTB" id="SendRefTB" value="写评论...">写评论...</textarea>
+                            <p>
+                                <a id="ImgSendPL" href="javascript:void(0);" onclick="SubmitReflection();">发表</a>
+                            </p>
+                        </div>
+                        
+                    </div>
+                    
+                    <p id="plgyDIV" style="margin: 0; text-align: right; padding: 7px 19px 0 0; color: #999;">请遵守用户&nbsp;<a href="http://www.360doc.com/pages/agreement.html" target="_blank">评论公约</a></p>
+                    
+                    <ul class="replylist" id="reflectionListUL">
+                    </ul>
+                    <div class="reply_pager" id="pageBarDIV">
+                    </div>
+                    <a href="javascript:void(0)" class="reply_more" onclick="setSpread()" style="display: none;">查看更多评论<img src="http://pubimage.360doc.com/NewArticle/reply_btn.gif" /></a>
+                </div>
+                <div class="mod__">
+                    <div class="str_border" style="border: none;">
+                        <strong>类似文章</strong>
+                        
+                    </div>
+                    <ul class="ul-similar">
+                        <li id="artid_1094453027"><span class="similar-pic f_left"><a href="http://www.360doc.com/content/23/0830/12/72387258_1094453027.shtml" target='_blank' onclick='artStatistics("20-9-7");'><img src="http://thumbnail1.360doc.com/DownloadImg/2023/08/3012/i109/1094453027_1.jpg"></a></span> <div  class="similar-info  f_left"><p class="similar-title"><a target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0830/12/72387258_1094453027.shtml">“神级网红”被2000万人追捧，揭露中老年人的生猛情欲</a></p><p class="similar-text"><a onclick="artStatistics('20-9-7');" target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0830/12/72387258_1094453027.shtml">于是他们为老人请了一位保姆，照顾老人的起居。保姆手脚勤快，善解人意，每天陪着老人聊天，把老人伺候得舒舒服服的。再三追问老人下，...</a></p></div></li><li id="artid_1101255008"><span class="similar-pic f_left"><a href="http://www.360doc.com/content/23/1022/20/46996736_1101255008.shtml" target='_blank' onclick='artStatistics("20-9-7");'><img src="http://thumbnail1.360doc.com/DownloadImg/2023/10/2208/i109/1101255008_1.jpg"></a></span> <div  class="similar-info  f_left"><p class="similar-title"><a target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/1022/20/46996736_1101255008.shtml">世界十大国际组织</a></p><p class="similar-text"><a onclick="artStatistics('20-9-7');" target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/1022/20/46996736_1101255008.shtml">WTO的主要职能是制定和执行国际贸易规则，监督成员的贸易政策，提供贸易争端解决机制，协调贸易自由化谈判，促进贸易与发展合作。UNESCO...</a></p></div></li><li id="artid_1088664997"><span class="similar-pic f_left"><a href="http://www.360doc.com/content/23/0715/17/72639406_1088664997.shtml" target='_blank' onclick='artStatistics("20-9-7");'><img src="http://thumbnail1.360doc.com/DownloadImg/2023/07/1505/i109/1088664997_1.jpg"></a></span> <div  class="similar-info  f_left"><p class="similar-title"><a target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0715/17/72639406_1088664997.shtml">赵孟頫写给“女神”的书法，已达“字圣”级别，打脸“俗书”的批评！</a></p><p class="similar-text"><a onclick="artStatistics('20-9-7');" target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0715/17/72639406_1088664997.shtml">元代书法家赵孟頫，可以说是书坛最后一位开宗立派，能与晋唐名家分庭抗礼的大师，《元史&#183;赵孟頫传》记载：“篆、隶、楷、行、草书...</a></p></div></li><li name="liadfeed" style="display:none;"></li><li id="artid_1106457779"><span class="similar-pic f_left"><a href="http://www.360doc.com/content/23/1206/06/5426525_1106457779.shtml" target='_blank' onclick='artStatistics("20-9-7");'><img src="http://thumbnail1.360doc.com/DownloadImg/2023/12/0606/U8/1106457779_1.jpg"></a></span> <div  class="similar-info  f_left"><p class="similar-title"><a target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/1206/06/5426525_1106457779.shtml">摄影：茶梅不畏严寒（1）</a></p><p class="similar-text"><a onclick="artStatistics('20-9-7');" target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/1206/06/5426525_1106457779.shtml">摄影：茶梅不畏严寒（1）2023年12月6日茶梅是山茶科山茶属的小乔木。茶梅原产于日本，目前在中国长江流域广泛栽培。茶梅花语谦让，清雅...</a></p></div></li><li id="artid_1091617387"><div style='width:100%;margin:0;' class="similar-info  f_left"><p class="similar-title"><a target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0808/08/80282348_1091617387.shtml">庄子识人九法，轻松看破一个人的本质</a></p><p class="similar-text"><a onclick="artStatistics('20-9-7');" target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0808/08/80282348_1091617387.shtml">庄子是中国古代的哲学家和文化名人，他提出了一系列的观点和智慧，其中包括他对于人性和人格的识别法则。被称为庄子识人九法，这些法则帮助我们轻松看破一个人的本质。下面，我将通过解读庄子识人九法...</a></p></div></li><li id="artid_1107038165"><span class="similar-pic f_left"><a href="http://www.360doc.com/content/23/1210/12/68474767_1107038165.shtml" target='_blank' onclick='artStatistics("20-9-7");'><img src="http://thumbnail1.360doc.com/DownloadImg/2023/12/1012/U8/1107038165_1.jpg"></a></span> <div  class="similar-info  f_left"><p class="similar-title"><a target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/1210/12/68474767_1107038165.shtml">美丽木棉</a></p><p class="similar-text"><a onclick="artStatistics('20-9-7');" target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/1210/12/68474767_1107038165.shtml">美丽木棉。</a></p></div></li><li name="liadfeed" style="display:none;"></li><li id="artid_1088357945"><span class="similar-pic f_left"><a href="http://www.360doc.com/content/23/0713/07/63508300_1088357945.shtml" target='_blank' onclick='artStatistics("20-9-7");'><img src="http://thumbnail1.360doc.com/DownloadImg/2023/07/1307/i109/1088357945_1.jpg"></a></span> <div  class="similar-info  f_left"><p class="similar-title"><a target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0713/07/63508300_1088357945.shtml">100种自疗法80-100</a></p><p class="similar-text"><a onclick="artStatistics('20-9-7');" target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0713/07/63508300_1088357945.shtml">100种自疗法80-100</a></p></div></li><li id="artid_1103370382"><span class="similar-pic f_left"><a href="http://www.360doc.com/content/23/1109/17/242467_1103370382.shtml" target='_blank' onclick='artStatistics("20-9-7");'><img src="http://thumbnail1.360doc.com/DownloadImg/2023/11/0905/i109/1103370382_1.jpg"></a></span> <div  class="similar-info  f_left"><p class="similar-title"><a target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/1109/17/242467_1103370382.shtml">36条残忍的人性规则你懂多少？</a></p><p class="similar-text"><a onclick="artStatistics('20-9-7');" target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/1109/17/242467_1103370382.shtml">人性本贱，很多人都爱着玩他的人，而玩着爱她的人，所以爱情是极其残酷的。的人。有时大众要的未必是真话，而是一种理想化的满足，或者...</a></p></div></li><li id="artid_1093453743"><span class="similar-pic f_left"><a href="http://www.360doc.com/content/23/0822/15/65804216_1093453743.shtml" target='_blank' onclick='artStatistics("20-9-7");'><img src="http://thumbnail1.360doc.com/DownloadImg/2023/08/2203/i109/1093453743_1.jpg"></a></span> <div  class="similar-info  f_left"><p class="similar-title"><a target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0822/15/65804216_1093453743.shtml">夫妻是否能白头到老，看“三个数字”就够了</a></p><p class="similar-text"><a onclick="artStatistics('20-9-7');" target='_blank' onclick="artStatistics('20-9-7');" href="http://www.360doc.com/content/23/0822/15/65804216_1093453743.shtml">夫妻是否能白头到老，看“三个数字”就够了。舍去迷信的做法，我们把以下几个数字进行解读，还真能悟到经验夫妻感情的方法。司马相如看...</a></p></div></li><li name="liadfeed" style="display:none;"></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="a_right">
+
+            <div id="rightfixed" style="width: 300px;">
+                <div class="user_info">
+                    <div class="user_photo_new f_left">
+                        <a href="http://www.360doc.com/userhome/39103730" id="userphotourl" target="_blank" onclick="artStatistics(&#39;20-7-4&#39;);">
+                            <img src="http://userimage8.360doc.com/17/0624/14/39103730_201706241455080471_main.jpg" id="userphoto" />
+                        </a>
+                    </div>
+                    <div class="user_data f_right">
+                        <div class="user_data_name">
+                            <a href="http://www.360doc.com/userhome/39103730" id="nickname" target="_blank" onclick="artStatistics(&#39;20-7-3&#39;);">张春强2022</a><i id="VerificationTips" style="display: none" class="aut" title="已通过个人认证"><a href="https://pay.360doc.com/pages/myaccount.aspx?app=23" target="_blank" onclick="artStatistics('25-13-3-27');"></a></i>
+                        </div>
+                        <p id="userdegree" style="display: none"><img src='http://pubimage.360doc.com/NewArticle/userstar1.gif' /><img src='http://pubimage.360doc.com/NewArticle/userstar1.gif' /><img src='http://pubimage.360doc.com/NewArticle/userstar1.gif' /><img src='http://pubimage.360doc.com/NewArticle/userstar1.gif' /><img src='http://pubimage.360doc.com/NewArticle/userstar2.gif' /></p>
+                        <p class="p1 wordnobreak_" style="display: none" id="oVerification"></p>
+                        <p class="p1 wordnobreak_" style="display: none" id="iVerification"></p>
+                        <div class="user_data_num" id="follow_talk">
+                            <a class="user_data_gz" href="javascript:void(0);" id="spanfollowstatusnew">关注</a>
+
+
+                            <a class="user_data_dh" href="javascript:void(0);" onclick="this.blur();docTalk();artStatistics('20-15');">对话</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="his_her"><ul class='his_her_type'><li class='f_left curone'><a href="http://www.360doc.com/userhome/39103730" style="color:#000;" target="_blank" onclick="artStatistics('20-9-10');">TA的最新馆藏</a></li></ul><div class='his_her_div' style="height:190px;"><ul class='his_her_list'><li><div><span></span><a title="基金申请书中立项依据的经典写法" href=http://www.360doc.com/content/24/0117/07/39103730_1111322783.shtml target=_blank onclick="artStatistics('20-9-11');">基金申请书中立项依据的经典写法</a></div><div><span></span><a title="文献综述的六个模板句式（上）" href=http://www.360doc.com/content/24/0117/07/39103730_1111322771.shtml target=_blank onclick="artStatistics('20-9-11');">文献综述的六个模板句式（上）</a></div><div><span></span><a title="基本有用的Stata代码：数据清洗" href=http://www.360doc.com/content/24/0117/07/39103730_1111322116.shtml target=_blank onclick="artStatistics('20-9-11');">基本有用的Stata代码：数据清洗</a></div><div><span></span><a title="如何比较解释变量的系数相对大小？" href=http://www.360doc.com/content/24/0116/07/39103730_1111209065.shtml target=_blank onclick="artStatistics('20-9-11');">如何比较解释变量的系数相对大小？</a></div><div><span style="color:#b0b0b0;">[转]&nbsp;</span><a title="你对会计的误解到底有多深?" href=http://www.360doc.com/content/15/0912/18/6150202_498707903.shtml target=_blank onclick="artStatistics('20-9-11');">你对会计的误解到底有多深?</a></div><div><span></span><a title="回归系数不显著怎么办？" href=http://www.360doc.com/content/24/0110/13/39103730_1110583156.shtml target=_blank onclick="artStatistics('20-9-11');">回归系数不显著怎么办？</a></div></li></ul></div></div>
+
+
+<div class="clear360doc" id="outerdivifartad1">
+    
+</div>
+
+<div class="his_her" id="recommendArt">
+
+
+    <div class="hhtitle_">
+        <span class="s1">喜欢该文的人也喜欢</span>
+        <a onclick="artStatistics('20-28-4');" href="http://www.360doc.com/readroom.html" target="_blank">更多</a>
+    </div>
+    <div class='hhlist_new' id="recommendArtLists">
+    </div>
+</div>
+
+
+
+
+<div class="his_her" id="recommendArtHot">
+    <div class="hhtitle_">
+        <span class="s1"><i class="atnavicons"></i>热门阅读</span>
+        <a onclick="reSetHotArt();artStatistics('20-55-1-0');" href="javascript:void(0)">换一换</a>
+    </div>
+    <div class='hhlist_new' id="recommendArtHotLists">
+    </div>
+
+</div>
+
+
+
+<div class="clear360doc" style="padding-top: 10px;" id="divifartad2">
+</div>
+
+
+
+
+<div class="clear360doc" id="divad5" style="zoom: 1; width: 300px; display: none;">
+    <div id="divad4" style="display: none;">
+        <div id="divifartad">
+        </div>
+        <div class="ggwz">
+        </div>
+        <div style="height: 13px;">
+        </div>
+    </div>
+    <div style="clear: both; display: none;" id="divad6">
+        <div id="adfloatbaidu">
+        </div>
+        <div class="ggwz">
+        </div>
+        <div style="height: 13px;">
+        </div>
+    </div>
+    <div style="height: 75px;">
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+
+
+    <p class="clearboth"></p>
+    <input type="hidden" id="artid" value="1071040033" />
+    <input type="hidden" id="docarttitle" value="%e5%88%b0%e5%ba%95%e6%8e%a7%e5%88%b6%e4%bb%80%e4%b9%88%e5%b1%82%e9%9d%a2%e7%9a%84%e5%9b%ba%e5%ae%9a%e6%95%88%e5%ba%94%3f+%e6%9c%80%e4%bd%8e%2c+%e6%9c%80%e9%ab%98%2c+or%e9%9a%8f%e6%84%8f%ef%bc%9f" />
+    <input type="hidden" id="firstartid" value="1071040033" />
+    <input type="hidden" id="firstuid" value="39103730" />
+    <input type="hidden" id="myuid" value="-1" />
+    <input type="hidden" id="firstarturl" value="http://www.360doc.com/content/23/0308/07/39103730_1071040033.shtml" />
+    <input type="hidden" id="oranfirstarturl" value="" />
+    <input type="hidden" id="subclassid" value="0" />
+    <input type="hidden" id="recommendart1" value="-1" />
+    <input type="hidden" id="recommendart2" value="-1" />
+    <input type="hidden" id="isowner" value="False" />
+
+    <input type="hidden" id="isowner2" value="0" />
+    <input type="hidden" id="original" value="0" />
+    <input type="hidden" id="showrewardlist" value="0" />
+    <input type="hidden" id="saveruserid" value="39103730" />
+    <input type="hidden" id="sourceurl" value="" />
+    <input type="hidden" id="deschidden" value="" />
+    <input type="hidden" id="firstkeywords" value="" />
+    <input type="hidden" id="firsttagwords" value="" />
+    <input type="hidden" id="firstsubclassid" value="0" />
+    <input type="hidden" id="hidisneweditor" value="1" />
+    <input type="hidden" id="hidreadroomclassid" value="0" />
+    <input type="hidden" id="hidsubclassid" value="-1" />
+    <input type="hidden" id="hidisshowminiapp" value="1" />
+    <input type="hidden" id="articleTime" value="2023-03-08T07:31:41" />
+    <input name="acinfo" type="hidden" id="acinfo" />
+    <input type="hidden" id="activityimg" value="http://ebookimage.360doc.com/banner/banner_1590142105143.jpeg" />
+    <input type="hidden" id="activityurl" value="http://www.360doc.com/member/index.html" />
+    <input type="hidden" id="isblackartid" value="2" />
+    <input type="hidden" id="isIllegalArt" value="2" />
+    <input type="hidden" id="hidappid" value="" />
+    <input type="hidden" id="userstatus" value="1" />
+    <input type="hidden" id="isshowimg" value="1" />
+    <input type="hidden" id="showarttype" value="0" />
+    <input type="hidden" id="hidden_permission" value="0" />
+    <input type="hidden" id="AuthorizerAppid" value="" />
+    <input type="hidden" id="source" value="" />
+    <input type="hidden" id="hidIsReflecion" value="1" />
+    <input type="hidden" id="artreadroomid" value="0" />
+    <div class="contextmenu" id="contextmenudiv" style="display: none;">
+        <ul>
+            <li><a href="javascript:void(0)" onclick="document.execCommand('Copy');addStatisticsNew('20-29-1-2');">复制</a></li>
+            <li><a href="javascript:void(0)" onclick="PrintObj.init();addStatisticsNew('20-31-1-72');">打印文章</a> </li>
+            <li class="sendtophone"><a href="javascript:void(0)" onclick="addStatisticsNew('20-41-1-147');">发送到手机</a>
+                <div class="qr" id="mobileQr">
+                    <p>微信扫码，在手机上查看选中内容</p>
+                    <div id="sendtophone_qr"></div>
+                </div>
+            </li>
+            <li><a href="javascript:void(0)" onclick="FullScreenObj.init();addStatisticsNew('20-30-1-118');">全屏阅读</a> </li>
+            
+            <li id="ArticleReadingLiBtn1" style="display: none;"><a id="ArticleReadingBtn1" href="javascript:void(0)" onclick="ArticleReadingClick(2);">朗读全文<b></b></a></li>
+            
+            <li id="share_li">
+                <a href="javascript:void(0)" class="tri">分享文章</a>
+                <div class="sharelist_new ctxshare bdsharebuttonbox" id="ctxshare">
+                    <a class="slbg1" href="javascript:void(0);" data-cmd="qzone" onclick="artStatistics('20-8-6');shareStatic.addStatic('qzone');">QQ空间</a>
+                    <a class="slbg2" href="javascript:void(0);" data-cmd="sqq" onclick="shareStatic.addStatic('qq');artStatistics('20-8-7');">QQ好友</a>
+                    <a class="slbg3" href="javascript:void(0);" data-cmd="tsina" onclick="shareStatic.addStatic('sina');artStatistics('20-8-8');">新浪微博</a>
+                    <a class="slbg0" href="javascript:void(0);" onclick="shareWeixin()" id="ctx_weixin">微信</a>
+                    <iframe width="95" height="95" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" allowtransparency="true" class="qr" rel="1071040033" style="display: none;"></iframe>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="contextmenu unlogin" id="contextmenudivmouseup" style="display: none;">
+        <ul>
+            <li><a class="a1" href="javascript:void(0)" onclick="document.execCommand('Copy');$('#contextmenudivmouseup').hide();addStatisticsNew('20-29-1-2');">复制</a></li>
+            <li id="print_li_mouseup"><a href="javascript:void(0)" onclick="PrintObj.init();$('#contextmenudivmouseup').hide();addStatisticsNew('20-31-1-71');">打印文章</a> </li>
+            <li class="sendtophone" style="display: none"><a href="javascript:void(0)" onclick="addStatisticsNew('20-41-1-146');">发送到手机</a>
+                <div class="qr">
+                    <p>微信扫码，在手机上查看选中内容</p>
+                    <div></div>
+                </div>
+            </li>
+            <li><a href="javascript:void(0)" onclick="FullScreenObj.init();$('#contextmenudivmouseup').hide();addStatisticsNew('20-30-1-117');">全屏阅读</a> </li>
+            
+            <li id="ArticleReadingLiBtn2" style="display: none;"><a id="ArticleReadingBtn2" href="javascript:void(0)" onclick="ArticleReadingClick(3);$('#contextmenudivmouseup').hide();">朗读全文</a> </li>
+            
+        </ul>
+    </div>
+
+    <script src="/js/Statistics/sha1.js?t=2017092101" type="text/javascript"></script>
+    <script type="text/javascript" src="/js/index7/newheader2022.js?t=2023120501"></script>
+    <script src="/js/showarticle.js?t=2024011701" type="text/javascript" charset="utf-8"></script>
+    <script>GerLookingUserInfo(1,39103730,1,0,'','',10,0);OutputLastNextArt('固定效应: 目前看到解释的最清楚的帖子, 救命！','http://www.360doc.com/content/23/0307/22/39103730_1071006739.shtml',0);OutputLastNextArt('<span style="color:#b0b0b0;">[转]&nbsp;</span>Stata：固定效应分析新命令-sumhdfe','http://www.360doc.com/content/22/0112/00/69467059_1012882679.shtml',1);</script>
+
+    <script src="//blockart.360doc.com/ajax/getstatusv2.ashx?aid=1071040033" type="text/javascript" charset="utf-8" async="async"></script>
+    
+    
+    <script type="text/javascript">
+        var baiduImagePlus = {
+            noLogo: true,
+            unionId: 'u2617463',
+            maxMiniAdCount: 0,
+            formList: [{ formId: 10 }]
+        };
+        //imgLogPcPage(1, 'code=69-2');
+    </script>
+    <script type="text/javascript" src="//cpro.baidustatic.com/cpro/ui/i.js" async="async"></script>
+    
+    
+    
+    <script type="application/ld+json">
+    {
+        "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+        "@id": "http://www.360doc.com/content/23/0308/07/39103730_1071040033.shtml",
+        "title": "到底控制什么层面的固定效应? 最低, 最高, or随意？",
+        "pubDate": "2023-03-08T07:31:41"
+    }
+    </script>
+        
+</body>
+</html>
