@@ -1,0 +1,73 @@
+<head>
+<meta charset="utf-8">
+<title>LINA Show Page</title>
+<link rel="stylesheet" type="text/css" href="./style.css">
+<div class="header">
+  <h1>张利娜/ZHANG LINA/장이나 Show Page </h1>
+  <p>You just need to believe you are a hero </p>
+</div>
+ 
+<div class="navbar">
+  <a href="#">LINA相关链接:</a>
+  <a href="https://blog.csdn.net/weixin_44649780?spm=1010.2135.3001.5343">CSDN</a>
+  <a href="#">Wechart</a>
+  <a href="#">LinkedIn</a>
+  <a href="">Github</a>
+  <a href="https://www.instagram.com/tasteofsummer9/">Instagram</a>
+  <a href="#" class="right">联系我</a>
+</div>
+ 
+<div class="row">
+  <div class="side">
+      <h2>个人介绍 Introduction</h2>
+      <h5>我的照片 Photo:</h5>
+      <div>
+      <img src=lina.jpg width="400" height="500">
+      </div>
+      <p> NAME:LINA</p>
+      <p> Motto：Everything I do is to become a better Lina</p>
+      <h3>联系方式：</h3>
+      <p> Phone:(82)01085900063</p>
+      <p> Email:initializezln@naver.com</p>
+    
+      <h2>详情介绍：</h2>
+ 
+      <div class="img1" style="height:60px;">
+          <a href="https://zhanglina94.github.io/background.html">背景资料</a>
+      </div><br>
+      <div class="img1" style="height:60px;">
+          <a href="https://zhanglina94.github.io/professional.html">专业技能</a>
+      </div><br>
+      <div class="img1" style="height:60px;">
+         <a href="https://zhanglina94.github.io/hobby.html">兴趣爱好</a>
+      </div>
+  </div>
+  <div class="main">
+      <h2><a href="https://zhanglina94.github.io/researchareas.html">研究领域 Research Areas </a></h2>
+      <h5>致力于人工智能，计算机视觉，自然语言处理，多模态模型算法的研究.</h5>
+      <h5> Research on Artificial Intelligence, Computer Vision(CV), Natural Language Processing(NLP), and Multimodal modeling algorithms.</h5>
+    
+      <div class="ai" style="height:500px;">
+       <a href="https://zhanglina94.github.io/researchareas.html"> 
+       <img src="image/ai.png" height="500"/></a>
+      </div>
+    
+      <p>  <br> </p>
+      <p>  <br> </p>
+      <br>
+    
+      <h2>
+        <a href="https://zhanglina94.github.io/hobby.html">兴趣爱好 Hobbies and Interests</a>
+      </h2>
+    
+      <h5>勇于做自己！Be brave and be yourself!</h5>
+      <div class="keai" style="height:500px;">
+           <a href="https://zhanglina94.github.io/hobby.html"> 
+           <img src="keai.png"/></a>
+      </div>
+  </div>
+</div>
+ 
+<div class="footer">
+  <h2>Copyright©2022 lina 版权所有</h2>
+</div>
